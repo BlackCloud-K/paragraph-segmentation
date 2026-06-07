@@ -1,0 +1,588 @@
+{"id": 0, "text": "It’s 1878.", "is_boundary": 0}
+{"id": 1, "text": "Sir Francis Galton gives a remarkable talk.", "is_boundary": 0}
+{"id": 2, "text": "He’s speaking to the anthropologic institute of Great Britain and Ireland.", "is_boundary": 0}
+{"id": 3, "text": "Known for his pioneering work in human intelligence, Galton is a brilliant polymath.", "is_boundary": 0}
+{"id": 4, "text": "He’s an explorer, an anthropologist, a sociologist, a psychologist and a statistician.", "is_boundary": 0}
+{"id": 5, "text": "He’s also a eugenist.", "is_boundary": 0}
+{"id": 6, "text": "In this talk, he presents a new technique by which he can combine photographs and produce composite portraits.", "is_boundary": 0}
+{"id": 7, "text": "This technique could be used to characterize different types of people.", "is_boundary": 0}
+{"id": 8, "text": "Galton thinks that if he combines photographs of violent criminals, he will discover the face of criminality.", "is_boundary": 0}
+{"id": 9, "text": "But to his surprise, the composite portrait that he produces is beautiful.", "is_boundary": 0}
+{"id": 10, "text": "Galton’s surprising finding raises deep questions: What is beauty?", "is_boundary": 0}
+{"id": 11, "text": "Why do certain configurations of line and color and form excite us so?", "is_boundary": 0}
+{"id": 12, "text": "For most of human history, these questions have been approached using logic and speculation.", "is_boundary": 0}
+{"id": 13, "text": "But in the last few decades, scientists have addressed the question of beauty using ideas from evolutionary psychology and tools of neuroscience.", "is_boundary": 0}
+{"id": 14, "text": "We’re beginning to glimpse the why and the how of beauty, at least in terms of what it means for the human face and form.", "is_boundary": 0}
+{"id": 15, "text": "And in the process, we’re stumbling upon some surprises.", "is_boundary": 0}
+{"id": 16, "text": "When it comes to seeing beauty in each other, while this decision is certainly subjective for the individual, it’s sculpted by factors that contribute to the survival of the group.", "is_boundary": 0}
+{"id": 17, "text": "Many experiments have shown that a few basic parameters contribute to what makes a face attractive.", "is_boundary": 0}
+{"id": 18, "text": "These include averaging, symmetry and the effects of hormones.", "is_boundary": 0}
+{"id": 19, "text": "Let’s take each one of these in turn.", "is_boundary": 0}
+{"id": 20, "text": "Galton’s finding that composite or average faces are typically more attractive than each individual face that contributes to the average has been replicated many times.", "is_boundary": 0}
+{"id": 21, "text": "This laboratory finding fits with many people’s intuitions.", "is_boundary": 0}
+{"id": 22, "text": "Average faces represent the central tendencies of a group.", "is_boundary": 0}
+{"id": 23, "text": "People with mixed features represent different populations, and presumably harbor greater genetic diversity and adaptability to the environment.", "is_boundary": 0}
+{"id": 24, "text": "Many people find mixed-race individuals attractive and inbred families less so.", "is_boundary": 0}
+{"id": 25, "text": "The second factor that contributes to beauty is symmetry.", "is_boundary": 0}
+{"id": 26, "text": "People generally find symmetric faces more attractive than asymmetric ones.", "is_boundary": 0}
+{"id": 27, "text": "Developmental abnormalities are often associated with asymmetries.", "is_boundary": 0}
+{"id": 28, "text": "And in plants, animals and humans, asymmetries often arise from parasitic infections.", "is_boundary": 0}
+{"id": 29, "text": "Symmetry, it turns out, is also an indicator of health.", "is_boundary": 0}
+{"id": 30, "text": "In the 1930s, a man named Maksymilian Faktorowicz recognized the importance of symmetry for beauty when he designed the beauty micrometer.", "is_boundary": 0}
+{"id": 31, "text": "With this device, he could measure minor asymmetric flaws which he could then make up for with products he sold from his company, named brilliantly after himself, Max Factor, which, as you know, is one of the world’s most famous brands for “make up.”The third factor that contributes to facial attractiveness is the effect of hormones.", "is_boundary": 0}
+{"id": 32, "text": "And here, I need to apologize for confining my comments to heterosexual norms.", "is_boundary": 0}
+{"id": 33, "text": "But estrogen and testosterone play important roles in shaping features that we find attractive.", "is_boundary": 0}
+{"id": 34, "text": "Estrogen produces features that signal fertility.", "is_boundary": 0}
+{"id": 35, "text": "Men typically find women attractive who have elements of both youth and maturity.", "is_boundary": 0}
+{"id": 36, "text": "A face that’s too baby-like might mean that the girl is not yet fertile, so men find women attractive who have large eyes, full lips and narrow chins as indicators of youth, and high cheekbones as an indicator of maturity.", "is_boundary": 0}
+{"id": 37, "text": "Testosterone produces features that we regard as typically masculine.", "is_boundary": 0}
+{"id": 38, "text": "These include heavier brows, thinner cheeks and bigger, squared-off jaws.", "is_boundary": 0}
+{"id": 39, "text": "But here’s a fascinating irony.", "is_boundary": 0}
+{"id": 40, "text": "In many species, if anything, testosterone suppresses the immune system.", "is_boundary": 0}
+{"id": 41, "text": "So the idea that testosterone-infused features are a fitness indicator doesn’t really make a whole lot of sense.", "is_boundary": 0}
+{"id": 42, "text": "Here, the logic is turned on its head.", "is_boundary": 0}
+{"id": 43, "text": "Instead of a fitness indicator, scientists invoke a handicap principle.", "is_boundary": 0}
+{"id": 44, "text": "The most commonly cited example of a handicap is the peacock’s tail.", "is_boundary": 0}
+{"id": 45, "text": "This beautiful but cumbersome tail doesn’t exactly help the peacock avoid predators and approach peahens.", "is_boundary": 0}
+{"id": 46, "text": "Why should such an extravagant appendage evolve?", "is_boundary": 0}
+{"id": 47, "text": "Even Charles Darwin, in an 1860 letter to Asa Gray wrote that the sight of the peacock’s tail made him physically ill.", "is_boundary": 0}
+{"id": 48, "text": "He couldn’t explain it with his theory of natural selection, and out of this frustration, he developed the theory of sexual selection.", "is_boundary": 0}
+{"id": 49, "text": "On this account, the display of the peacock’s tail is about sexual enticement, and this enticement means it’s more likely the peacock will mate and have offspring.", "is_boundary": 0}
+{"id": 50, "text": "Now, the modern twist on this display argument is that the peacock is also advertising its health to the peahen.", "is_boundary": 0}
+{"id": 51, "text": "Only especially fit organisms can afford to divert resources to maintaining such an extravagant appendage.", "is_boundary": 0}
+{"id": 52, "text": "Only especially fit men can afford the price that testosterone levies on their immune system.", "is_boundary": 0}
+{"id": 53, "text": "And by analogy, think of the fact that only very rich men can afford to pay more than $10,000 for a watch as a display of their financial fitness.", "is_boundary": 0}
+{"id": 54, "text": "Now, many people hear these kinds of evolutionary claims and think they mean that we somehow are unconsciously seeking mates who are healthy.", "is_boundary": 0}
+{"id": 55, "text": "And I think this idea is probably not right.", "is_boundary": 0}
+{"id": 56, "text": "Teenagers and young adults are not exactly known for making decisions that are predicated on health concerns.", "is_boundary": 0}
+{"id": 57, "text": "But they don’t have to be, and let me explain why.", "is_boundary": 0}
+{"id": 58, "text": "Imagine a population in which people have three different kinds of preferences: for green, for orange and for red.", "is_boundary": 0}
+{"id": 59, "text": "From their point of view, these preferences have nothing to do with health; they just like what they like.", "is_boundary": 0}
+{"id": 60, "text": "But if it were also the case that these preferences are associated with the different likelihood of producing offspring — let’s say in a ratio of 3:2:1 — then in the first generation, there would be 3 greens to 2 oranges to 1 red, and in each subsequent generation, the proportion of greens increase, so that in 10 generations, 98 percent of this population has a green preference.", "is_boundary": 0}
+{"id": 61, "text": "Now, a scientist coming in and sampling this population discovers that green preferences are universal.", "is_boundary": 0}
+{"id": 62, "text": "So the point about this little abstract example is that while preferences for specific physical features can be arbitrary for the individual, if those features are heritable and they are associated with a reproductive advantage, over time, they become universal for the group.", "is_boundary": 0}
+{"id": 63, "text": "So what happens in the brain when we see beautiful people?", "is_boundary": 0}
+{"id": 64, "text": "Attractive faces activate parts of our visual cortex in the back of the brain, an area called the fusiform gyrus, that is especially tuned to processing faces, and an adjacent area called the lateral occipital complex, that is especially attuned to processing objects.", "is_boundary": 0}
+{"id": 65, "text": "In addition, attractive faces activate parts of our reward and pleasure centers in the front and deep in the brain, and these include areas that have complicated names, like the ventral striatum, the orbitofrontal cortex and the ventromedial prefrontal cortex.", "is_boundary": 0}
+{"id": 66, "text": "Our visual brain that is tuned to processing faces interacts with our pleasure centers to underpin the experience of beauty.", "is_boundary": 0}
+{"id": 67, "text": "Amazingly, while we all engage with beauty, without our knowledge, beauty also engages us.", "is_boundary": 0}
+{"id": 68, "text": "Our brains respond to attractive faces even when we’re not thinking about beauty.", "is_boundary": 0}
+{"id": 69, "text": "We conducted an experiment in which people saw a series of faces, and in one condition, they had to decide if a pair of faces were the same or a different person.", "is_boundary": 0}
+{"id": 70, "text": "Even in this condition, attractive faces drove neural activity robustly in their visual cortex, despite the fact that they were thinking about a person’s identity and not their beauty.", "is_boundary": 0}
+{"id": 71, "text": "Another group similarly found automatic responses to beauty within our pleasure centers.", "is_boundary": 0}
+{"id": 72, "text": "Taken together, these studies suggest that our brain automatically responds to beauty by linking vision and pleasure.", "is_boundary": 0}
+{"id": 73, "text": "These beauty detectors, it seems, ping every time we see beauty, regardless of whatever else we might be thinking.", "is_boundary": 0}
+{"id": 74, "text": "We also have a “beauty is good” stereotype embedded in the brain.", "is_boundary": 0}
+{"id": 75, "text": "Within the orbitofrontal cortex, there’s overlapping neural activity in response to beauty and to goodness, and this happens even when people aren’t explicitly thinking about beauty or goodness.", "is_boundary": 0}
+{"id": 76, "text": "Our brains seem to reflexively associate beauty and good.", "is_boundary": 0}
+{"id": 77, "text": "And this reflexive association may be the biologic trigger for the many social effects of beauty.", "is_boundary": 0}
+{"id": 78, "text": "Attractive people receive all kinds of advantages in life.", "is_boundary": 0}
+{"id": 79, "text": "They’re regarded as more intelligent, more trustworthy, they’re given higher pay and lesser punishments, even when such judgments are not warranted.", "is_boundary": 0}
+{"id": 80, "text": "These kinds of observations reveal beauty’s ugly side.", "is_boundary": 0}
+{"id": 81, "text": "In my lab, we recently found that people with minor facial anomalies and disfigurements are regarded as less good, less kind, less intelligent, less competent and less hardworking.", "is_boundary": 0}
+{"id": 82, "text": "Unfortunately, we also have a “disfigured is bad” stereotype.", "is_boundary": 0}
+{"id": 83, "text": "This stereotype is probably exploited and magnified by images in popular media, in which facial disfigurement is often used as a shorthand to depict someone of villainous character.", "is_boundary": 0}
+{"id": 84, "text": "We need to understand these kinds of implicit biases if we are to overcome them and aim for a society in which we treat people fairly, based on their behavior and not on the happenstance of their looks.", "is_boundary": 0}
+{"id": 85, "text": "Let me leave you with one final thought.", "is_boundary": 0}
+{"id": 86, "text": "Beauty is a work in progress.", "is_boundary": 0}
+{"id": 87, "text": "The so-called universal attributes of beauty were selected for during the almost two million years of the Pleistocene.", "is_boundary": 0}
+{"id": 88, "text": "Life was nasty, brutish and a very long time ago.", "is_boundary": 0}
+{"id": 89, "text": "The selection criteria for reproductive success from that time doesn’t really apply today.", "is_boundary": 0}
+{"id": 90, "text": "For example, death by parasite is not one of the top ways that people die, at least not in the technologically developed world.", "is_boundary": 0}
+{"id": 91, "text": "From antibiotics to surgery, birth control to in vitro fertilization, the filters for reproductive success are being relaxed.", "is_boundary": 0}
+{"id": 92, "text": "And under these relaxed conditions, preference and trait combinations are free to drift and become more variable.", "is_boundary": 0}
+{"id": 93, "text": "Even as we are profoundly affecting our environment, modern medicine and technological innovation is profoundly affecting the very essence of what it means to look beautiful.", "is_boundary": 0}
+{"id": 94, "text": "The universal nature of beauty is changing even as we’re changing the universe.", "is_boundary": 0}
+{"id": 95, "text": "Thank you.", "is_boundary": 0}
+{"id": 96, "text": "Today, I am going to talk about anger.", "is_boundary": 0}
+{"id": 97, "text": "When I was 11, seeing some of my friends leaving the school because their parents could not afford textbooks made me angry.", "is_boundary": 0}
+{"id": 98, "text": "When I was 27, hearing the plight of a desperate slave father whose daughter was about to be sold to a brothel made me angry.", "is_boundary": 0}
+{"id": 99, "text": "At the age of 50, lying on the street, in a pool of blood, along with my own son, made me angry.", "is_boundary": 0}
+{"id": 100, "text": "Dear friends, for centuries we were taught anger is bad.", "is_boundary": 0}
+{"id": 101, "text": "Our parents, teachers, priests — everyone taught us how to control and suppress our anger.", "is_boundary": 0}
+{"id": 102, "text": "But I ask why?", "is_boundary": 0}
+{"id": 103, "text": "Why can’t we convert our anger for the larger good of society?", "is_boundary": 0}
+{"id": 104, "text": "Why can’t we use our anger to challenge and change the evils of the world?", "is_boundary": 0}
+{"id": 105, "text": "That I tried to do.", "is_boundary": 0}
+{"id": 106, "text": "Friends, most of the brightest ideas came to my mind out of anger.", "is_boundary": 0}
+{"id": 107, "text": "Like when I was 35 and sat in a locked-up, tiny prison.", "is_boundary": 0}
+{"id": 108, "text": "The whole night, I was angry.", "is_boundary": 0}
+{"id": 109, "text": "But it has given birth to a new idea.", "is_boundary": 0}
+{"id": 110, "text": "But I will come to that later on.", "is_boundary": 0}
+{"id": 111, "text": "Let me begin with the story of how I got a name for myself.", "is_boundary": 0}
+{"id": 112, "text": "I had been a big admirer of Mahatma Gandhi since my childhood.", "is_boundary": 0}
+{"id": 113, "text": "Gandhi fought and lead India’s freedom movement.", "is_boundary": 0}
+{"id": 114, "text": "But more importantly, he taught us how to treat the most vulnerable sections, the most deprived people, with dignity and respect.", "is_boundary": 0}
+{"id": 115, "text": "And so, when India was celebrating Mahatma Gandhi’s birth centenary in 1969 — at that time I was 15 — an idea came to my mind.", "is_boundary": 0}
+{"id": 116, "text": "Why can’t we celebrate it differently?", "is_boundary": 0}
+{"id": 117, "text": "I knew, as perhaps many of you might know, that in India, a large number of people are born in the lowest segment of caste.", "is_boundary": 0}
+{"id": 118, "text": "And they are treated as untouchables.", "is_boundary": 0}
+{"id": 119, "text": "These are the people — forget about allowing them to go to the temples, they cannot even go into the houses and shops of high-caste people.", "is_boundary": 0}
+{"id": 120, "text": "So I was very impressed with the leaders of my town who were speaking very highly against the caste system and untouchability and talking of Gandhian ideals.", "is_boundary": 0}
+{"id": 121, "text": "So inspired by that, I thought, let us set an example by inviting these people to eat food cooked and served by the untouchable community.", "is_boundary": 0}
+{"id": 122, "text": "I went to some low-caste, so-called untouchable, people, tried to convince them, but it was unthinkable for them.", "is_boundary": 0}
+{"id": 123, "text": "They told me, “No, no.", "is_boundary": 0}
+{"id": 124, "text": "It’s not possible.", "is_boundary": 0}
+{"id": 125, "text": "It never happened.” I said, “Look at these leaders, they are so great, they are against untouchability.", "is_boundary": 0}
+{"id": 126, "text": "They will come.", "is_boundary": 0}
+{"id": 127, "text": "If nobody comes, we can set an example.” These people thought that I was too naive.", "is_boundary": 0}
+{"id": 128, "text": "Finally, they were convinced.", "is_boundary": 0}
+{"id": 129, "text": "My friends and I took our bicycles and invited political leaders.", "is_boundary": 0}
+{"id": 130, "text": "And I was so thrilled, rather, empowered to see that each one of them agreed to come.", "is_boundary": 0}
+{"id": 131, "text": "I thought, “Great idea.", "is_boundary": 0}
+{"id": 132, "text": "We can set an example.", "is_boundary": 0}
+{"id": 133, "text": "We can bring about change in the society.”The day has come.", "is_boundary": 0}
+{"id": 134, "text": "All these untouchables, three women and two men, they agreed to come.", "is_boundary": 0}
+{"id": 135, "text": "I could recall that they had used the best of their clothes.", "is_boundary": 0}
+{"id": 136, "text": "They brought new utensils.", "is_boundary": 0}
+{"id": 137, "text": "They had taken baths hundreds of times because it was unthinkable for them to do.", "is_boundary": 0}
+{"id": 138, "text": "It was the moment of change.", "is_boundary": 0}
+{"id": 139, "text": "They gathered.", "is_boundary": 0}
+{"id": 140, "text": "Food was cooked.", "is_boundary": 0}
+{"id": 141, "text": "It was 7 o’clock.", "is_boundary": 0}
+{"id": 142, "text": "By 8 o’clock, we kept on waiting, because it’s not very uncommon that the leaders become late, for an hour or so.", "is_boundary": 0}
+{"id": 143, "text": "So after 8 o’clock, we took our bicycles and went to these leaders’ homes, just to remind them.", "is_boundary": 0}
+{"id": 144, "text": "One of the leader’s wives told me, “Sorry, he is having some headache, perhaps he cannot come.” I went to another leader and his wife told me, “Okay, you go, he will definitely join.” So I thought that the dinner will take place, though not at that large a scale.", "is_boundary": 0}
+{"id": 145, "text": "I went back to the venue, which was a newly built Mahatma Gandhi Park.", "is_boundary": 0}
+{"id": 146, "text": "It was 10 o’clock.", "is_boundary": 0}
+{"id": 147, "text": "None of the leaders showed up.", "is_boundary": 0}
+{"id": 148, "text": "That made me angry.", "is_boundary": 0}
+{"id": 149, "text": "I was standing, leaning against Mahatma Gandhi’s statue.", "is_boundary": 0}
+{"id": 150, "text": "I was emotionally drained, rather exhausted.", "is_boundary": 0}
+{"id": 151, "text": "Then I sat down where the food was lying.", "is_boundary": 0}
+{"id": 152, "text": "I kept my emotions on hold.", "is_boundary": 0}
+{"id": 153, "text": "But then, when I took the first bite, I broke down in tears.", "is_boundary": 0}
+{"id": 154, "text": "And suddenly I felt a hand on my shoulder.", "is_boundary": 0}
+{"id": 155, "text": "And it was the healing, motherly touch of an untouchable woman.", "is_boundary": 0}
+{"id": 156, "text": "And she told me, “Kailash, why are you crying?", "is_boundary": 0}
+{"id": 157, "text": "You have done your bit.", "is_boundary": 0}
+{"id": 158, "text": "You have eaten the food cooked by untouchables, which has never happened in our memory.” She said, “You won today.” And my friends, she was right.", "is_boundary": 0}
+{"id": 159, "text": "I came back home, a little after midnight, shocked to see that several high-caste elderly people were sitting in my courtyard.", "is_boundary": 0}
+{"id": 160, "text": "I saw my mother and elderly women were crying and they were pleading to these elderly people because they had threatened to outcaste my whole family.", "is_boundary": 0}
+{"id": 161, "text": "And you know, outcasting the family is the biggest social punishment one can think of.", "is_boundary": 0}
+{"id": 162, "text": "Somehow they agreed to punish only me, and the punishment was purification.", "is_boundary": 0}
+{"id": 163, "text": "That means I had to go 600 miles away from my hometown to the River Ganges to take a holy dip.", "is_boundary": 0}
+{"id": 164, "text": "And after that, I should organize a feast for priests, 101 priests, wash their feet and drink that water.", "is_boundary": 0}
+{"id": 165, "text": "It was total nonsense, and I refused to accept that punishment.", "is_boundary": 0}
+{"id": 166, "text": "How did they punish me?", "is_boundary": 0}
+{"id": 167, "text": "I was barred from entering into my own kitchen and my own dining room, my utensils were separated.", "is_boundary": 0}
+{"id": 168, "text": "But the night when I was angry, they wanted to outcaste me.", "is_boundary": 0}
+{"id": 169, "text": "But I decided to outcaste the entire caste system.", "is_boundary": 0}
+{"id": 170, "text": "And that was possible because the beginning would have been to change the family name, or surname, because in India, most of the family names are caste names.", "is_boundary": 0}
+{"id": 171, "text": "So I decided to drop my name.", "is_boundary": 0}
+{"id": 172, "text": "And then, later on, I gave a new name to myself: Satyarthi, that means, “seeker of truth.” And that was the beginning of my transformative anger.", "is_boundary": 0}
+{"id": 173, "text": "Friends, maybe one of you can tell me, what was I doing before becoming a children’s rights activist?", "is_boundary": 0}
+{"id": 174, "text": "Does anybody know?", "is_boundary": 0}
+{"id": 175, "text": "No.", "is_boundary": 0}
+{"id": 176, "text": "I was an engineer, an electrical engineer.", "is_boundary": 0}
+{"id": 177, "text": "And then I learned how the energy of burning fire, coal, the nuclear blast inside the chambers, raging river currents, fierce winds, could be converted into the light and lives of millions.", "is_boundary": 0}
+{"id": 178, "text": "I also learned how the most uncontrollable form of energy could be harnessed for good and making society better.", "is_boundary": 0}
+{"id": 179, "text": "So I’ll come back to the story of when I was caught in the prison: I was very happy freeing a dozen children from slavery, handing them over to their parents.", "is_boundary": 0}
+{"id": 180, "text": "I cannot explain my joy when I free a child.", "is_boundary": 0}
+{"id": 181, "text": "I was so happy.", "is_boundary": 0}
+{"id": 182, "text": "But when I was waiting for my train to come back to my hometown, Delhi, I saw that dozens of children were arriving; they were being trafficked by someone.", "is_boundary": 0}
+{"id": 183, "text": "I stopped them, those people.", "is_boundary": 0}
+{"id": 184, "text": "I complained to the police.", "is_boundary": 0}
+{"id": 185, "text": "So the policemen, instead of helping me, they threw me in this small, tiny shell, like an animal.", "is_boundary": 0}
+{"id": 186, "text": "And that was the night of anger when one of the brightest and biggest ideas was born.", "is_boundary": 0}
+{"id": 187, "text": "I thought that if I keep on freeing 10 children, and 50 more will join, that’s not done.", "is_boundary": 0}
+{"id": 188, "text": "And I believed in the power of consumers, and let me tell you that this was the first time when a campaign was launched by me or anywhere in the world, to educate and sensitize the consumers to create a demand for child-labor-free rugs.", "is_boundary": 0}
+{"id": 189, "text": "In Europe and America, we have been successful.", "is_boundary": 0}
+{"id": 190, "text": "And it has resulted in a fall in child labor in South Asian countries by 80 percent.", "is_boundary": 0}
+{"id": 191, "text": "Not only that, but this first-ever consumer’s power, or consumer’s campaign has grown in other countries and other industries, maybe chocolate, maybe apparel, maybe shoes — it has gone beyond.", "is_boundary": 0}
+{"id": 192, "text": "My anger at the age of 11, when I realized how important education is for every child, I got an idea to collect used books and help the poorest children.", "is_boundary": 0}
+{"id": 193, "text": "I created a book bank at the age of 11.", "is_boundary": 0}
+{"id": 194, "text": "But I did not stop.", "is_boundary": 0}
+{"id": 195, "text": "Later on, I cofounded the world’s single largest civil society campaign for education that is the Global Campaign for Education.", "is_boundary": 0}
+{"id": 196, "text": "That has helped in changing the whole thinking towards education from the charity mode to the human rights mode, and that has concretely helped the reduction of out-of-school children by half in the last 15 years.", "is_boundary": 0}
+{"id": 197, "text": "My anger at the age of 27, to free that girl who was about to be sold to a brothel, has given me an idea to go for a new strategy of raid and rescue, freeing children from slavery.", "is_boundary": 0}
+{"id": 198, "text": "And I am so lucky and proud to say that it is not one or 10 or 20, but my colleagues and I have been able to physically liberate 83,000 child slaves and hand them over back to their families and mothers.", "is_boundary": 0}
+{"id": 199, "text": "I knew that we needed global policies.", "is_boundary": 0}
+{"id": 200, "text": "We organized the worldwide marches against child labor and that has also resulted in a new international convention to protect the children who are in the worst forms.", "is_boundary": 0}
+{"id": 201, "text": "And the concrete result was that the number of child laborers globally has gone down by one third in the last 15 years.", "is_boundary": 0}
+{"id": 202, "text": "So, in each case, it began from anger, turned into an idea, and action.", "is_boundary": 0}
+{"id": 203, "text": "So anger, what next?", "is_boundary": 0}
+{"id": 204, "text": "Idea, and — Audience: Action Kailash Satyarthi: Anger, idea, action.", "is_boundary": 0}
+{"id": 205, "text": "Which I tried to do.", "is_boundary": 0}
+{"id": 206, "text": "Anger is a power, anger is an energy, and the law of nature is that energy can never be created and never be vanished, can never be destroyed.", "is_boundary": 0}
+{"id": 207, "text": "So why can’t the energy of anger be translated and harnessed to create a better and beautiful world, a more just and equitable world?", "is_boundary": 0}
+{"id": 208, "text": "Anger is within each one of you, and I will share a secret for a few seconds: that if we are confined in the narrow shells of egos, and the circles of selfishness, then the anger will turn out to be hatred, violence, revenge, destruction.", "is_boundary": 0}
+{"id": 209, "text": "But if we are able to break the circles, then the same anger could turn into a great power.", "is_boundary": 0}
+{"id": 210, "text": "We can break the circles by using our inherent compassion and connect with the world through compassion to make this world better.", "is_boundary": 0}
+{"id": 211, "text": "That same anger could be transformed into it.", "is_boundary": 0}
+{"id": 212, "text": "So dear friends, sisters and brothers, again, as a Nobel Laureate, I am urging you to become angry.", "is_boundary": 0}
+{"id": 213, "text": "I am urging you to become angry.", "is_boundary": 0}
+{"id": 214, "text": "And the angriest among us is the one who can transform his anger into idea and action.", "is_boundary": 0}
+{"id": 215, "text": "Thank you so much.", "is_boundary": 0}
+{"id": 216, "text": "Chris Anderson: For many years, you’ve been an inspiration to others.", "is_boundary": 0}
+{"id": 217, "text": "Who or what inspires you and why?", "is_boundary": 0}
+{"id": 218, "text": "KS: Good question.", "is_boundary": 0}
+{"id": 219, "text": "Chris, let me tell you, and that is the truth, each time when I free a child, the child who has lost all his hope that he will ever come back to his mother, the first smile of freedom, and the mother who has lost all hope that the son or daughter can ever come back and sit in her lap, they become so emotional and the first tear of joy rolls down on her cheek, I see the glimpse of God in it — this is my biggest inspiration.", "is_boundary": 0}
+{"id": 220, "text": "And I am so lucky that not once, as I said before, but thousands of times, I have been able to witness my God in the faces of those children and they are my biggest inspirations.", "is_boundary": 0}
+{"id": 221, "text": "Thank you.", "is_boundary": 0}
+{"id": 222, "text": "Unless you’ve spent quality time on the International Space Station, this is probably not a view you are super familiar with.", "is_boundary": 0}
+{"id": 223, "text": "This is the east coast of the United States.", "is_boundary": 0}
+{"id": 224, "text": "That’s New York down there in the lower right, and it’s a band of light all the way up through Washington DC.", "is_boundary": 0}
+{"id": 225, "text": "Those cities are shining like jewels, highways are traced by webs of light.", "is_boundary": 0}
+{"id": 226, "text": "And all of that light is super photogenic.", "is_boundary": 0}
+{"id": 227, "text": "But there’s a problem.", "is_boundary": 0}
+{"id": 228, "text": "That light is meant to be illuminating our sidewalks, and our streets and our houses.", "is_boundary": 0}
+{"id": 229, "text": "Instead, it’s actually going up into the sky and out into the universe, where it’s not doing any of us any good.", "is_boundary": 0}
+{"id": 230, "text": "When I see photos of this, of the Earth, I see environmental catastrophe.", "is_boundary": 0}
+{"id": 231, "text": "Those aren’t jewels, those are tumors.", "is_boundary": 0}
+{"id": 232, "text": "I’m an astronomer, so it’s really no surprise probably to anyone that I’ve always loved the night sky.", "is_boundary": 0}
+{"id": 233, "text": "I’m kind of a walking cliché.", "is_boundary": 0}
+{"id": 234, "text": "But when I was growing up in Minnesota, one of my favorite things to do on a summer evening was grab my old Raggedy Ann sleeping bag and take it out into a field behind my house, where I would spend hours looking at the night sky.", "is_boundary": 0}
+{"id": 235, "text": "And to do this, I had to brave not only the darkness, but also swarms of mosquitoes, and my sleeping bag really didn’t smell very good.", "is_boundary": 0}
+{"id": 236, "text": "But there was one particular star that I would look for, night after night.", "is_boundary": 0}
+{"id": 237, "text": "And then I would play this game where I would try to focus on that star so intensely, that everything else would fade from my view and that single star would be all that I could see.", "is_boundary": 0}
+{"id": 238, "text": "I could only ever hold on to that focus for a few fleeting moments.", "is_boundary": 0}
+{"id": 239, "text": "But when I did, I felt this deep sense of connection to the universe.", "is_boundary": 0}
+{"id": 240, "text": "And almost a sense of vertigo, like I was going to fall into space.", "is_boundary": 0}
+{"id": 241, "text": "And when this happened — I know this sounds kind of ridiculous, but I would simultaneously feel unfathomably insignificant and also kind of weirdly important.", "is_boundary": 0}
+{"id": 242, "text": "That star I looked to night after night was called Vega.", "is_boundary": 0}
+{"id": 243, "text": "Vega is the brightest star in the constellation Lyra, which is not coincidentally the name of one of my dogs.", "is_boundary": 0}
+{"id": 244, "text": "But this experience is being lost.", "is_boundary": 0}
+{"id": 245, "text": "My favorite constellation, Lyra, this is what it would look like from Manhattan.", "is_boundary": 0}
+{"id": 246, "text": "For people who live in urban and suburban environments, if they go outside at night and look up, instead of being awestruck by the majesty of the universe, they see pretty much nothing.", "is_boundary": 0}
+{"id": 247, "text": "These unremarkable, completely blank night skies, of course are due to all of the light we produce at night.", "is_boundary": 0}
+{"id": 248, "text": "Those very same lights we see all the way from space are shining up into the atmosphere, where they bounce around and create this featureless smog of light.", "is_boundary": 0}
+{"id": 249, "text": "And that featureless smog of light has a name.", "is_boundary": 0}
+{"id": 250, "text": "It’s called light pollution.", "is_boundary": 0}
+{"id": 251, "text": "As an astronomer, I can actually tell how bad light pollution is by the brightness of stars I can see in the sky.", "is_boundary": 0}
+{"id": 252, "text": "And it turns out that when you’re trying to unlock the secrets of the cosmos, it’s really helpful to be able to see the cosmos.", "is_boundary": 0}
+{"id": 253, "text": "And — [Laughs] Truth.", "is_boundary": 0}
+{"id": 254, "text": "And this light that we’re trying to detect is coming from millions or billions of light-years away, and so it’s generally pretty faint.", "is_boundary": 0}
+{"id": 255, "text": "And as an astronomer, I fight with this every day to do my job, and I have to tell you, it is a really big problem.", "is_boundary": 0}
+{"id": 256, "text": "But the problem is far worse than just losing some whimsical ability to gaze at the stars.", "is_boundary": 0}
+{"id": 257, "text": "For example, countless plant and animal species are affected.", "is_boundary": 0}
+{"id": 258, "text": "So we could talk about sea turtles or pollinators or any of these super important species that are also cute.", "is_boundary": 0}
+{"id": 259, "text": "Instead, I want to talk about these quietly unassuming dog whelks.", "is_boundary": 0}
+{"id": 260, "text": "You may have seen them around and not given them really a whole lot of thought.", "is_boundary": 0}
+{"id": 261, "text": "But they’re pretty cool.", "is_boundary": 0}
+{"id": 262, "text": "So in an entire year a dog whelk will rarely move more than about 10 meters.", "is_boundary": 0}
+{"id": 263, "text": "That means that when they are attacking their prey they can hit this brisk pace of about a millimeter an hour.", "is_boundary": 0}
+{"id": 264, "text": "And — This works out OK, because they attack things like barnacles.", "is_boundary": 0}
+{"id": 265, "text": "So these dog whelks live in the intertidal area of coasts, where, it turns out, they’re a pretty key part of the ecosystem.", "is_boundary": 0}
+{"id": 266, "text": "Not only are they one of the most dominant invertebrate predators, but other animals, like crabs and birds, think they’re pretty tasty.", "is_boundary": 0}
+{"id": 267, "text": "So that leaves these poor snails in a kind of precarious situation, because if they go too low in the water, then crabs are a threat, but if they come out of the water too far, birds are going to have a feast.", "is_boundary": 0}
+{"id": 268, "text": "Why is an astronomer telling you about dog whelks?", "is_boundary": 0}
+{"id": 269, "text": "I ask that myself.", "is_boundary": 0}
+{"id": 270, "text": "Because their behavior is impacted by light pollution.", "is_boundary": 0}
+{"id": 271, "text": "For example, if dog whelks are subjected to artificial light at night they’re about twice as likely to stay under the water with a predator.", "is_boundary": 0}
+{"id": 272, "text": "And that puts them at increased risk.", "is_boundary": 0}
+{"id": 273, "text": "And it’s not like they can make a speedy escape.", "is_boundary": 0}
+{"id": 274, "text": "And so these — And the other issue is because they literally move at a snail’s pace.", "is_boundary": 0}
+{"id": 275, "text": "If a population is wiped out, it can take decades to replenish.", "is_boundary": 0}
+{"id": 276, "text": "And that, in turn, affects the rest of their ecosystem and the other species, like the birds and the barnacles and the crabs.", "is_boundary": 0}
+{"id": 277, "text": "So this is just one small and slimy example of how light pollution can unleash a cascade effect on an entire ecosystem.", "is_boundary": 0}
+{"id": 278, "text": "Virtually every species that has been studied to date is impacted by light pollution.", "is_boundary": 0}
+{"id": 279, "text": "And that includes humans.", "is_boundary": 0}
+{"id": 280, "text": "So let’s talk about us.", "is_boundary": 0}
+{"id": 281, "text": "You are probably not surprised to hear that light pollution can affect your ability to sleep well at night.", "is_boundary": 0}
+{"id": 282, "text": "But you might be surprised to hear that light pollution is linked to obesity.", "is_boundary": 0}
+{"id": 283, "text": "In fact, in a recent study they found that light pollution contributed to over 70 percent of the obesity rates in 80 countries.", "is_boundary": 0}
+{"id": 284, "text": "More than that, light pollution actually contributed about the same amount to excess weight as eating junk food.", "is_boundary": 0}
+{"id": 285, "text": "And it gets worse.", "is_boundary": 0}
+{"id": 286, "text": "For people who are subjected to significant amounts of artificial light at night they’re about 50 percent more likely to get breast cancer.", "is_boundary": 0}
+{"id": 287, "text": "And in fact, light pollution is correlated with types of cancer across the board.", "is_boundary": 0}
+{"id": 288, "text": "And in controlled lab experiments there’s a direct link between increased artificial light at night and a rate of tumor growth.", "is_boundary": 0}
+{"id": 289, "text": "You might be wondering how normal light could possibly impact cancer rates.", "is_boundary": 0}
+{"id": 290, "text": "It likely all comes down to the super important hormone called melatonin, which we have evolved over millions of years to produce on a day-night cycle, or a circadian rhythm.", "is_boundary": 0}
+{"id": 291, "text": "What happens is that when light impacts the retina at the back of our eye at night it can disrupt melatonin production, and when melatonin production is disrupted, a whole chain of other chemical processes are affected, and that includes estrogen production.", "is_boundary": 0}
+{"id": 292, "text": "And when we throw this chemical balance out of whack, really bad things can happen.", "is_boundary": 0}
+{"id": 293, "text": "In fact, things are so bad, that the International Agency for Cancer Research has said that disrupting the human circadian rhythm is a probable carcinogen.", "is_boundary": 0}
+{"id": 294, "text": "Also, for fun, I want to let you know that light pollution has been linked to, let’s see — headaches, anxiety, depression, diabetes, cardiovascular disease and the list goes on.", "is_boundary": 0}
+{"id": 295, "text": "But maybe you don’t care about your health.", "is_boundary": 0}
+{"id": 296, "text": "We’re all going to die anyway, you might as well die in a brightly lit room.", "is_boundary": 0}
+{"id": 297, "text": "The fact that you’re laughing about death is kind of amazing.", "is_boundary": 0}
+{"id": 298, "text": "You might still care about money.", "is_boundary": 0}
+{"id": 299, "text": "The money that’s spent on that wasted light, and I mean just the light that’s going out into the universe, and not doing us any good, is three billion dollars a year.", "is_boundary": 0}
+{"id": 300, "text": "That’s enough money to build, like, 1,000 utility-grade windmills, or fund the entire DC public-school system for over two years, or — this is my favorite, because I really want one but I can’t afford one — buy 30,000 Tesla Model X SUVs.", "is_boundary": 0}
+{"id": 301, "text": "And that includes the electric car tax credit.", "is_boundary": 0}
+{"id": 302, "text": "And then there are the existential costs.", "is_boundary": 0}
+{"id": 303, "text": "I don’t have any data on how losing touch with our place in the cosmos impacts us.", "is_boundary": 0}
+{"id": 304, "text": "But I believe that this probably impacts our humanity more than any of the other scary statistics I can share with you.", "is_boundary": 0}
+{"id": 305, "text": "And it’s getting worse with time.", "is_boundary": 0}
+{"id": 306, "text": "The amount of light pollution is doubling roughly every 35 years.", "is_boundary": 0}
+{"id": 307, "text": "That means that within the next decade virtually the entire eastern half of the United States will be perpetually brighter than twilight.", "is_boundary": 0}
+{"id": 308, "text": "And there’s another issue with light pollution.", "is_boundary": 0}
+{"id": 309, "text": "The problem is way worse than we can see with our own eyes.", "is_boundary": 0}
+{"id": 310, "text": "Our eyes have evolved to just detect this tiny range of the full spectrum of light.", "is_boundary": 0}
+{"id": 311, "text": "All of this other light that we can’t see, this invisible light, also has a pollution problem.", "is_boundary": 0}
+{"id": 312, "text": "Mostly it’s from modern technology, things like cell phones or car-to-car radar, or now apparently we need appliances that can talk to each other.", "is_boundary": 0}
+{"id": 313, "text": "All of this modern technology is putting out strong signals that can completely swamp this exceedingly faint light we’re trying to detect from the rest of the universe outside Earth, which just for the record, is most of the universe.", "is_boundary": 0}
+{"id": 314, "text": "And then, there are satellites.", "is_boundary": 0}
+{"id": 315, "text": "Satellites are a problem at both visible and invisible wavelengths.", "is_boundary": 0}
+{"id": 316, "text": "A host of private companies have plans to deploy tens of thousands of satellites into Earth orbit, where they will not only outnumber, literally outnumber the visible stars in the sky, while also beaming invisible light back to Earth.", "is_boundary": 0}
+{"id": 317, "text": "So for astronomers like me, who use invisible light to study the universe, it’s going to be like staring at the Sun and trying to see a birthday candle behind it.", "is_boundary": 0}
+{"id": 318, "text": "Alright, I want to be clear that there’s nothing inherently wrong with any of this modern technology.", "is_boundary": 0}
+{"id": 319, "text": "With cell phones or satellites or car radar.", "is_boundary": 0}
+{"id": 320, "text": "I’m not sure about kitchen appliances.", "is_boundary": 0}
+{"id": 321, "text": "I haven’t broken down and gotten an oven that talks to my cell phone yet.", "is_boundary": 0}
+{"id": 322, "text": "And I use lights at night like everybody else.", "is_boundary": 0}
+{"id": 323, "text": "But here’s the thing.", "is_boundary": 0}
+{"id": 324, "text": "Some problems in the world, like we’ve heard about today and you’ll hear more about, are overwhelming and they seem intractable.", "is_boundary": 0}
+{"id": 325, "text": "Visible light pollution is not one of these problems.", "is_boundary": 0}
+{"id": 326, "text": "This is actually stupidly simple, OK?", "is_boundary": 0}
+{"id": 327, "text": "So here are five super simple things you can do.", "is_boundary": 0}
+{"id": 328, "text": "Don’t use lights brighter than you need to.", "is_boundary": 0}
+{"id": 329, "text": "Don’t use lights when you don’t need them.", "is_boundary": 0}
+{"id": 330, "text": "Those lights you’re using, make sure they’re shielded down, so they’re not shining up into the sky.", "is_boundary": 0}
+{"id": 331, "text": "And let’s talk about LED lights.", "is_boundary": 0}
+{"id": 332, "text": "If you have a choice, don’t buy the blue ones.", "is_boundary": 0}
+{"id": 333, "text": "Look for words like “warm white.” If you buy LEDs with words like “natural light” or “daylight,” that’s like saying you hate space.", "is_boundary": 0}
+{"id": 334, "text": "And finally, you could advocate for this.", "is_boundary": 0}
+{"id": 335, "text": "Even in your local community, find out if there’s a lighting code and whether it could be made more night-sky friendly.", "is_boundary": 0}
+{"id": 336, "text": "Or dare I say, you could even advocate at the federal level, by politely asking our federal officials, some of whom may be here, to please not auction off our view of the invisible universe to the highest bidder to pollute at will, which is actually what happens.", "is_boundary": 0}
+{"id": 337, "text": "Now, like a good professor, I have homework for you.", "is_boundary": 0}
+{"id": 338, "text": "If you have never seen a truly dark night sky, I want you to go out and experience one for yourself.", "is_boundary": 0}
+{"id": 339, "text": "Because if you don’t, you don’t know what you’re missing, and you don’t know what humanity is losing.", "is_boundary": 0}
+{"id": 340, "text": "Thank you.", "is_boundary": 0}
+{"id": 341, "text": "When I was young, I wanted to be on TV: the lights, the cameras, the makeup, the glamorous life.", "is_boundary": 0}
+{"id": 342, "text": "And from my vantage point, just outside of a military base in Lawton, Oklahoma, I didn’t make the distinction between TV reporter or actor.", "is_boundary": 0}
+{"id": 343, "text": "It was all the same to me.", "is_boundary": 0}
+{"id": 344, "text": "It was either, “Reporting live from Berlin” or “I shall attend her here and woo her with such spirit when she comes.” It was all special, it was all the spotlight, and I just knew that it was for me.", "is_boundary": 0}
+{"id": 345, "text": "But somewhere along my journey, life happened.", "is_boundary": 0}
+{"id": 346, "text": "Ah, much better.", "is_boundary": 0}
+{"id": 347, "text": "I have a disease called vitiligo.", "is_boundary": 0}
+{"id": 348, "text": "It started early in my career.", "is_boundary": 0}
+{"id": 349, "text": "It’s an autoimmune disorder.", "is_boundary": 0}
+{"id": 350, "text": "It’s where it looks like your skin is getting white patches, but it’s actually void of color.", "is_boundary": 0}
+{"id": 351, "text": "It affects all ethnicities, it affects all ages, all genders, it’s not contagious, it’s not life-threatening, but it is mental warfare.", "is_boundary": 0}
+{"id": 352, "text": "It’s tough.", "is_boundary": 0}
+{"id": 353, "text": "Now, I was diagnosed with this disease when I was working on “Eyewitness News” in New York City.", "is_boundary": 0}
+{"id": 354, "text": "I was in the biggest city in the country, I was on their flagship station and I was on their top-rated 5pm newscast.", "is_boundary": 0}
+{"id": 355, "text": "And the doctor looked me right in the eye and said, “You have a disease called vitiligo.", "is_boundary": 0}
+{"id": 356, "text": "It’s a skin disorder where you lose your pigment.", "is_boundary": 0}
+{"id": 357, "text": "There is no cure, but there a-la-la-la-la”.", "is_boundary": 0}
+{"id": 358, "text": "Charlie Brown’s teacher.", "is_boundary": 0}
+{"id": 359, "text": "He said there is no cure.", "is_boundary": 0}
+{"id": 360, "text": "All I heard was, “My career is over.”But I just couldn’t give up.", "is_boundary": 0}
+{"id": 361, "text": "I couldn’t quit, because we put too much into this.", "is_boundary": 0}
+{"id": 362, "text": "And by “we” I mean Mr. Moss, who sent me to speech and drama club instead of to detention, or my sister who paid part of my college expenses, or my mom, who simply gave me everything.", "is_boundary": 0}
+{"id": 363, "text": "I would not quit.", "is_boundary": 0}
+{"id": 364, "text": "So I decided to just put on makeup and keep it moving.", "is_boundary": 0}
+{"id": 365, "text": "I had to wear makeup anyway.", "is_boundary": 0}
+{"id": 366, "text": "It’s TV, baby, right?", "is_boundary": 0}
+{"id": 367, "text": "I just put on a little more makeup, and everything’s cool.", "is_boundary": 0}
+{"id": 368, "text": "And that actually went very well for years.", "is_boundary": 0}
+{"id": 369, "text": "I went from being a reporter in New York City to being a morning show anchor in Detroit, the Motor City.", "is_boundary": 0}
+{"id": 370, "text": "And as the disease got worse, I just put on more makeup.", "is_boundary": 0}
+{"id": 371, "text": "It was easy.", "is_boundary": 0}
+{"id": 372, "text": "Except for my hands.", "is_boundary": 0}
+{"id": 373, "text": "See, this disease is progressive and ever-changing.", "is_boundary": 0}
+{"id": 374, "text": "That means it comes and goes.", "is_boundary": 0}
+{"id": 375, "text": "At one point, for about a year and a half, my face was completely white.", "is_boundary": 0}
+{"id": 376, "text": "Yeah, it trips me out too.", "is_boundary": 0}
+{"id": 377, "text": "Yeah.", "is_boundary": 0}
+{"id": 378, "text": "And then, with a little help, some of the pigment came back, but living through this process was like two sides of a coin.", "is_boundary": 0}
+{"id": 379, "text": "When I’m at work and I’m wearing the makeup or wearing the makeup outside, I’m the TV guy.", "is_boundary": 0}
+{"id": 380, "text": "“Hey, how you doing everybody?", "is_boundary": 0}
+{"id": 381, "text": "Great.” At home without the makeup, I’d take it off and it was like being a leper.", "is_boundary": 0}
+{"id": 382, "text": "The stares, constantly staring at me, the comments under their breath.", "is_boundary": 0}
+{"id": 383, "text": "Some people refused to shake my hand.", "is_boundary": 0}
+{"id": 384, "text": "Some people moved to the other side of the sidewalk, moved to the other side of the elevator.", "is_boundary": 0}
+{"id": 385, "text": "I felt like they were moving to the other side of life.", "is_boundary": 0}
+{"id": 386, "text": "It was tough, and those were some tough years.", "is_boundary": 0}
+{"id": 387, "text": "And honestly, sometimes I just had to shelter in place.", "is_boundary": 0}
+{"id": 388, "text": "You know what I mean?", "is_boundary": 0}
+{"id": 389, "text": "Kind of just stay at home till I get my mind right.", "is_boundary": 0}
+{"id": 390, "text": "But then I’d put my blinders back on, I’d get back out there, do my thing, but in the process of doing that, I developed this — angry, grumpy demeanor.", "is_boundary": 0}
+{"id": 391, "text": "Anger is an easy go-to, and people would leave me alone, but it just wasn’t me.", "is_boundary": 0}
+{"id": 392, "text": "It wasn’t me.", "is_boundary": 0}
+{"id": 393, "text": "I was allowing this disease to turn me into this angry, grumpy, spotted guy.", "is_boundary": 0}
+{"id": 394, "text": "It just wasn’t me.", "is_boundary": 0}
+{"id": 395, "text": "So I had to change.", "is_boundary": 0}
+{"id": 396, "text": "I knew I could not change other people.", "is_boundary": 0}
+{"id": 397, "text": "People are going to react and do what they gonna do.", "is_boundary": 0}
+{"id": 398, "text": "But there was a cold hard reality as well.", "is_boundary": 0}
+{"id": 399, "text": "I was the one that was showing anger, sadness and isolating myself.", "is_boundary": 0}
+{"id": 400, "text": "It was actually a choice.", "is_boundary": 0}
+{"id": 401, "text": "I was walking out the door every day expecting the world to react with negativity, so I just gave them that mean face first.", "is_boundary": 0}
+{"id": 402, "text": "If I wanted change, the change had to start with me.", "is_boundary": 0}
+{"id": 403, "text": "So I came up with a plan.", "is_boundary": 0}
+{"id": 404, "text": "Two-parter, not that deep.", "is_boundary": 0}
+{"id": 405, "text": "Number one: I would just let people stare, drink it in, stare all you want, and not react.", "is_boundary": 0}
+{"id": 406, "text": "Because the truth is when I got this disease, I was all up in the mirror staring at every new spot trying to figure out what is going on.", "is_boundary": 0}
+{"id": 407, "text": "So I needed to let other people have that same opportunity to get that visual understanding.", "is_boundary": 0}
+{"id": 408, "text": "Number two: I would react with positivity, and that was simply a smile, or, at the very least, a nonjudgmental, kind face.", "is_boundary": 0}
+{"id": 409, "text": "Simple plan.", "is_boundary": 0}
+{"id": 410, "text": "But it turned out to be more difficult than I thought.", "is_boundary": 0}
+{"id": 411, "text": "But over time, things started to go OK. Like this one time, I’m at the store and this dude is like staring at me, like burning a hole in the side of my head.", "is_boundary": 0}
+{"id": 412, "text": "I’m shopping, he’s staring at me, I’m going to the checkout, he’s staring at me, I’m checking out, he’s on the other line checking out, he’s staring at me, we go to the exit, he’s still staring at me, so I see he’s staring and finally I turn to him and I go, “Hey buddy, what’s up!” And he goes …(Mumbles nervously) “Hi!” Awkward.", "is_boundary": 0}
+{"id": 413, "text": "So to relieve the tension, I say, “It’s just a skin disorder.", "is_boundary": 0}
+{"id": 414, "text": "It’s not contagious, it’s not life-threatening, it just makes me look a little different.” I end up talking to that guy for like five minutes.", "is_boundary": 0}
+{"id": 415, "text": "It was kind of cool, right?", "is_boundary": 0}
+{"id": 416, "text": "And at the end of our conversation, he says, “You know, if you didn’t have ‘vitilargo’” — it’s actually vitiligo, but he was trying, so — “if you didn’t have vitilargo, you’d look just like that guy on TV.” And I was like, “Haha, yeah, I get that, I get that, yeah.” So things were going OK.", "is_boundary": 0}
+{"id": 417, "text": "I was having more good exchanges than bad, until that day.", "is_boundary": 0}
+{"id": 418, "text": "I had a little time before work so I like to stop by the park to watch the kids play.", "is_boundary": 0}
+{"id": 419, "text": "They’re funny.", "is_boundary": 0}
+{"id": 420, "text": "So I got a little too close, this little girl wasn’t paying attention, she’s about two or three years old, she’s running, she runs directly into my leg and falls down, pretty hard.", "is_boundary": 0}
+{"id": 421, "text": "I thought she hurt herself, so I reach out to try and help the little girl and she looks at my vitiligo and she screams!Now kids are pure honesty.", "is_boundary": 0}
+{"id": 422, "text": "She’s like two or three.", "is_boundary": 0}
+{"id": 423, "text": "This little girl, she wasn’t trying to be mean.", "is_boundary": 0}
+{"id": 424, "text": "She didn’t have any malice in her heart.", "is_boundary": 0}
+{"id": 425, "text": "This little girl was afraid.", "is_boundary": 0}
+{"id": 426, "text": "She was just afraid.", "is_boundary": 0}
+{"id": 427, "text": "I didn’t know what to do.", "is_boundary": 0}
+{"id": 428, "text": "I just took a step back and put my hands by my side.", "is_boundary": 0}
+{"id": 429, "text": "I stayed in the house for two weeks and three days on that one.", "is_boundary": 0}
+{"id": 430, "text": "It took me a second to get my mind around the fact that I scare small children.", "is_boundary": 0}
+{"id": 431, "text": "And that was something that I could not smile away.", "is_boundary": 0}
+{"id": 432, "text": "But I jumped back on my plan and just put on my blinders, started going back out.", "is_boundary": 0}
+{"id": 433, "text": "Two months later, I’m in a grocery store reaching on the bottom shelf, and I hear a little voice go, “You’ve got a boo-boo?” It’s like a two-year-old, three-year-old, same age, little girl, but she’s not crying, so I kneel down in front of her and I don’t speak two-year-old so I look up at the mom, and I say, “What did she say?” And she says, “She thinks you have a boo-boo.” So I go, “No, I don’t have a boo-boo, no, not at all.” And the little girl says, “Duh-duh-hoy?” And so I look to mom for the translation, and she says, “She thinks you’re hurt.” And I say, “No, sweetie, I’m not hurt at all, I’m fine.” And the little girl reaches out with that little hand and touches my face.", "is_boundary": 0}
+{"id": 434, "text": "She’s trying to rub the chocolate into the vanilla or whatever she was doing.", "is_boundary": 0}
+{"id": 435, "text": "It was amazing!", "is_boundary": 0}
+{"id": 436, "text": "It was awesome.", "is_boundary": 0}
+{"id": 437, "text": "Because she thought she knew what it was, she was giving me everything I wanted: kindness, compassion.", "is_boundary": 0}
+{"id": 438, "text": "And with the touch of that little hand, she healed a grown man’s pain.", "is_boundary": 0}
+{"id": 439, "text": "Yee-ha.", "is_boundary": 0}
+{"id": 440, "text": "Healed.", "is_boundary": 0}
+{"id": 441, "text": "I smiled for a long time on that one.", "is_boundary": 0}
+{"id": 442, "text": "Positivity is something worth fighting for, and the fight is not with others — it’s internal.", "is_boundary": 0}
+{"id": 443, "text": "If you want to make positive changes in your life, you have to consistently be positive.", "is_boundary": 0}
+{"id": 444, "text": "My blood type is actually B positive.", "is_boundary": 0}
+{"id": 445, "text": "I know, corny TV guy dad joke, my daughter hates it, but I don’t care!", "is_boundary": 0}
+{"id": 446, "text": "Be positive!", "is_boundary": 0}
+{"id": 447, "text": "A 14-year-old boy years ago — this kid had vitiligo — he asked me to show my face on television.", "is_boundary": 0}
+{"id": 448, "text": "I wasn’t going to do it, we’ve been over this, I thought I was going to lose my job, but the kid convinced me by saying, “If you show people what you look like and explain this to them, maybe they will treat me differently.”Boom!", "is_boundary": 0}
+{"id": 449, "text": "Blinders off.", "is_boundary": 0}
+{"id": 450, "text": "I did a TV report, got an overwhelming response.", "is_boundary": 0}
+{"id": 451, "text": "So I didn’t know what to do.", "is_boundary": 0}
+{"id": 452, "text": "I took the attention and focused it back on the kid and other people that have vitiligo.", "is_boundary": 0}
+{"id": 453, "text": "I started a support group.", "is_boundary": 0}
+{"id": 454, "text": "Pretty soon, we noticed “VITFriends” and “V-Strong” support groups all over the country.", "is_boundary": 0}
+{"id": 455, "text": "In 2016, we all came together and celebrated World Vitiligo Day.", "is_boundary": 0}
+{"id": 456, "text": "This past June 25, we had over 300 people, all in celebration of our annual event.", "is_boundary": 0}
+{"id": 457, "text": "It was amazing.", "is_boundary": 0}
+{"id": 458, "text": "Thanks.", "is_boundary": 0}
+{"id": 459, "text": "Now, I’m not going to lie to you and say it was quick or easy for me to find a positive place living with this disease, but I found it.", "is_boundary": 0}
+{"id": 460, "text": "But I also got much more.", "is_boundary": 0}
+{"id": 461, "text": "I became a better man, the man I always wanted to be, the kind of guy who can stand up in front of a room full of strangers and tell some of the toughest stories in his life and end it all with a smile, and find happiness in the fact that you all just smiled back.", "is_boundary": 0}
+{"id": 462, "text": "Thank you.", "is_boundary": 0}
+{"id": 463, "text": "So I’ve got something that I’m slightly embarrassed to admit to.", "is_boundary": 0}
+{"id": 464, "text": "At the age of 17, as a creationist, I decided to go to university to study evolution so that I could destroy it.", "is_boundary": 0}
+{"id": 465, "text": "I failed.", "is_boundary": 0}
+{"id": 466, "text": "I failed so spectacularly that I’m now an evolutionary biologist.", "is_boundary": 0}
+{"id": 467, "text": "So I’m a paleoanthropologist, I’m a National Geographic Explorer specializing in fossil hunting in caves in unstable, hostile and disputed territories.", "is_boundary": 0}
+{"id": 468, "text": "And we all know that if I was a guy and not a girl, that wouldn’t be a job description, that would be a pick-up line.", "is_boundary": 0}
+{"id": 469, "text": "Now, here’s the thing.", "is_boundary": 0}
+{"id": 470, "text": "I do not have a death wish.", "is_boundary": 0}
+{"id": 471, "text": "I’m not an adrenaline junkie.", "is_boundary": 0}
+{"id": 472, "text": "I just looked at a map.", "is_boundary": 0}
+{"id": 473, "text": "See, frontline exploratory science does not happen as much in politically unstable territories.", "is_boundary": 0}
+{"id": 474, "text": "This is a map of all the places which the British Foreign Office have declared contain red zones, orange zones or have raised some kind of a threat warning about.", "is_boundary": 0}
+{"id": 475, "text": "Now I’m going to go out on a limb here and say that it is a tragedy if we’re not doing frontline exploratory science in a huge portion of the planet.", "is_boundary": 0}
+{"id": 476, "text": "And so science has a geography problem.", "is_boundary": 0}
+{"id": 477, "text": "Also, as a paleoanthropologist, guys, this is basically a map of some of the most important places in the human journey.", "is_boundary": 0}
+{"id": 478, "text": "There are almost definitely fascinating fossils to be found here.", "is_boundary": 0}
+{"id": 479, "text": "But are we looking for them?", "is_boundary": 0}
+{"id": 480, "text": "And so as an undergraduate, I was repeatedly told that humans, be they ourselves, homo sapiens, or earlier species, that we left Africa via the Sinai of Egypt.", "is_boundary": 0}
+{"id": 481, "text": "I’m English, as you can probably tell from my accent, but I am actually of Arab heritage, and I always say that I’m very, very Arab on the outside.", "is_boundary": 0}
+{"id": 482, "text": "You know, I can really be passionate.", "is_boundary": 0}
+{"id": 483, "text": "Like, “You’re amazing!", "is_boundary": 0}
+{"id": 484, "text": "I love you!” But on the inside, I’m really English, so everybody irritates me.", "is_boundary": 0}
+{"id": 485, "text": "It’s true.", "is_boundary": 0}
+{"id": 486, "text": "And the thing is, my family are Arab from Yemen, and I knew that that channel, Bab-el-Mandeb, is not that much of a feat to cross.", "is_boundary": 0}
+{"id": 487, "text": "And I kept asking myself this really simple question: if the ancestors to New World monkeys could somehow cross the Atlantic Ocean, why couldn’t humans cross that tiny stretch of water?", "is_boundary": 0}
+{"id": 488, "text": "But the thing is, Yemen, compared to, let’s say, Europe, was so understudied that it was something akin to near virgin territory.", "is_boundary": 0}
+{"id": 489, "text": "But that, along with its location, made the sheer potential for discovery so exciting, and I had so many questions.", "is_boundary": 0}
+{"id": 490, "text": "When did we first start using Bab-el-Mandeb?", "is_boundary": 0}
+{"id": 491, "text": "But also, which species of human besides ourselves made it to Yemen?", "is_boundary": 0}
+{"id": 492, "text": "Might we find a species as yet unknown to science?", "is_boundary": 0}
+{"id": 493, "text": "And it turned out, I wasn’t the only one who had noticed Yemen’s potential.", "is_boundary": 0}
+{"id": 494, "text": "There was actually a few other academics out there.", "is_boundary": 0}
+{"id": 495, "text": "But sadly, due to political instability, they moved out, and so I moved in.", "is_boundary": 0}
+{"id": 496, "text": "And I was looking for caves: caves because caves are the original prime real estate.", "is_boundary": 0}
+{"id": 497, "text": "But also because if you’re looking for fossils in that kind of heat, your best bet for fossil preservation is always going to be caves.", "is_boundary": 0}
+{"id": 498, "text": "But then, Yemen took a really sad turn for the worse, and just a few days before I was due to fly out to Yemen, the civil war escalated into a regional conflict, the capital’s airport was bombed and Yemen became a no-fly zone.", "is_boundary": 0}
+{"id": 499, "text": "Now, my parents made this decision before I was born: that I would be born British.", "is_boundary": 0}
+{"id": 500, "text": "I had nothing to do with the best decision of my life.", "is_boundary": 0}
+{"id": 501, "text": "And now … Now the lucky ones in my family have escaped, and the others, the others are being been bombed and send you WhatsApp messages that make you detest your very existence.", "is_boundary": 0}
+{"id": 502, "text": "This war’s been going on for four years.", "is_boundary": 0}
+{"id": 503, "text": "It’s been going on for over four years, and it has led to a humanitarian crisis.", "is_boundary": 0}
+{"id": 504, "text": "There is a famine there, a man-made famine.", "is_boundary": 0}
+{"id": 505, "text": "That’s a man-made famine, so not a natural famine, an entirely man-made famine that the UN has warned could be the worst famine the world has seen in a hundred years.", "is_boundary": 0}
+{"id": 506, "text": "This war has made it clear to me more than ever that no place, no people deserve to get left behind.", "is_boundary": 0}
+{"id": 507, "text": "And so I was joining these other teams, and I was forming new collaborations in other unstable places.", "is_boundary": 0}
+{"id": 508, "text": "But I was desperate to get back into Yemen, because for me, Yemen’s really personal.", "is_boundary": 0}
+{"id": 509, "text": "And so I kept trying to think of a project I could do in Yemen that would help highlight what was going on there.", "is_boundary": 0}
+{"id": 510, "text": "And every idea I had just kept failing, or it was just too high-risk, because let’s be honest, most of Yemen is just too dangerous for a Western team.", "is_boundary": 0}
+{"id": 511, "text": "But then I was told that Socotra, a Yemeni island, was safe once you got there.", "is_boundary": 0}
+{"id": 512, "text": "In fact, it turned out there was a few local and international academics that were still working there.", "is_boundary": 0}
+{"id": 513, "text": "And that got me really excited, because look at Socotra’s proximity to Africa.", "is_boundary": 0}
+{"id": 514, "text": "And yet we have no idea when humans arrived on that island.", "is_boundary": 0}
+{"id": 515, "text": "But Socotra, for those of you who know it, well, let’s just say you probably know it for a completely different reason.", "is_boundary": 0}
+{"id": 516, "text": "You probably know it as the Galapagos of the Indian Ocean, because it is one of the most biodiverse places on this earth.", "is_boundary": 0}
+{"id": 517, "text": "But we were also getting information that this incredibly delicate environment and its people were under threat because they were at the frontline of both Middle Eastern politics and climate change.", "is_boundary": 0}
+{"id": 518, "text": "And it slowly dawned on me that Socotra was my Yemen project.", "is_boundary": 0}
+{"id": 519, "text": "And so I wanted to put together a huge multidisciplinary team.", "is_boundary": 0}
+{"id": 520, "text": "We wanted to cross the archipelago on foot, camel and dhow boat to conduct a health check of this place.", "is_boundary": 0}
+{"id": 521, "text": "This has only been attempted once before, and it was in 1999.", "is_boundary": 0}
+{"id": 522, "text": "But the thing is, that is not an easy thing to pull off.", "is_boundary": 0}
+{"id": 523, "text": "And so we desperately needed a recce, and for those of you who aren’t familiar with British English, a recce is like a scouting expedition.", "is_boundary": 0}
+{"id": 524, "text": "It’s like a reconnaissance.", "is_boundary": 0}
+{"id": 525, "text": "And I often say that a really big expedition without a recce is a bit like a first date without a Facebook stalk.", "is_boundary": 0}
+{"id": 526, "text": "Like, it’s doable, but is it wise?", "is_boundary": 0}
+{"id": 527, "text": "There’s a few too many knowing laughs in this room.", "is_boundary": 0}
+{"id": 528, "text": "Anyway, so then our recce team thankfully were no strangers to unstable places, which, let’s be honest, is kind of important because we were trying to get to a place between Yemen and Somalia, And after calling in what felt like a million favors, including to the deputy governor, we finally found ourselves on the move, albeit on a wooden cement cargo ship sailing through pirate waters in the Indian Ocean with this as a toilet.", "is_boundary": 0}
+{"id": 529, "text": "Can you guys see this?", "is_boundary": 0}
+{"id": 530, "text": "You know how everybody has their worst toilet story?", "is_boundary": 0}
+{"id": 531, "text": "Well, I’ve never swam with dolphins before.", "is_boundary": 0}
+{"id": 532, "text": "I just went straight to pooping on them.", "is_boundary": 0}
+{"id": 533, "text": "And also, I genuinely discovered that I am genuinely less stressed by pirate waters than I am with a cockroach infestation that was so intense that at one point I went belowdeck, and the floor was black and it was moving.", "is_boundary": 0}
+{"id": 534, "text": "(Audience moans)Yeah, and at night there was three raised platforms to sleep on, but there was only — let’s say there was four team members, and the thing is, if you got a raised platform to sleep on, you only had to contend with a few cockroaches during the night, whereas if you got the floor, good luck to you.", "is_boundary": 0}
+{"id": 535, "text": "And so I was the only girl in the team and the whole ship, so I got away without sleeping on the floor.", "is_boundary": 0}
+{"id": 536, "text": "And then, on, like, the fourth or fifth night, Martin Edström looks at me and goes, “Ella, Ella I really believe in equality.” So we were sailing on that cement cargo ship for three days, and then we slowly started seeing land.", "is_boundary": 0}
+{"id": 537, "text": "And after three years of failing, I was finally seeing Yemen.", "is_boundary": 0}
+{"id": 538, "text": "And there is no feeling on earth like that start of an expedition.", "is_boundary": 0}
+{"id": 539, "text": "It’s this moment where you jump out of a jeep or you look up from a boat and you know that there’s this possibility, it’s small but it’s still there, that you’re about to find something that could add to or change our knowledge of who we are and where we come from.", "is_boundary": 0}
+{"id": 540, "text": "There is no feeling like it on earth, and it’s a feeling that so many scientists have but rarely in politically unstable places.", "is_boundary": 0}
+{"id": 541, "text": "Because Western scientists are discouraged or all-out barred from working in unstable places.", "is_boundary": 0}
+{"id": 542, "text": "But here’s the thing: scientists specialize in the jungle.", "is_boundary": 0}
+{"id": 543, "text": "Scientists work in deep cave systems.", "is_boundary": 0}
+{"id": 544, "text": "Scientists attach themselves to rockets and blow themselves into outer space.", "is_boundary": 0}
+{"id": 545, "text": "But apparently, working in an unstable place is deemed too high-risk.", "is_boundary": 0}
+{"id": 546, "text": "It is completely arbitrary.", "is_boundary": 0}
+{"id": 547, "text": "Who here in this room wasn’t brought up on adventure stories?", "is_boundary": 0}
+{"id": 548, "text": "And most of our heroes were actually scientists and academics.", "is_boundary": 0}
+{"id": 549, "text": "Science was about going out into the unknown.", "is_boundary": 0}
+{"id": 550, "text": "It was about truly global exploration, even if there were risks.", "is_boundary": 0}
+{"id": 551, "text": "And so when did it become acceptable to make it difficult for science to happen in unstable places?", "is_boundary": 0}
+{"id": 552, "text": "And look, I’m not saying that all scientists should go off and start working in unstable places.", "is_boundary": 0}
+{"id": 553, "text": "This isn’t some gung-ho call.", "is_boundary": 0}
+{"id": 554, "text": "But here’s the thing: for those who have done the research, understand security protocol and are trained, stop stopping those who want to.", "is_boundary": 0}
+{"id": 555, "text": "Plus, just because one part of a country is an active war zone doesn’t mean the whole country is.", "is_boundary": 0}
+{"id": 556, "text": "I’m not saying we should go into active war zones.", "is_boundary": 0}
+{"id": 557, "text": "But Iraqi Kurdistan looks very different from Fallujah.", "is_boundary": 0}
+{"id": 558, "text": "And actually, a few months after I couldn’t get into Yemen, another team adopted me.", "is_boundary": 0}
+{"id": 559, "text": "So Professor Graeme Barker’s team were actually working in Iraqi Kurdistan, and they were digging up Shanidar Cave.", "is_boundary": 0}
+{"id": 560, "text": "Now, Shanidar Cave a few decades earlier had unveiled a Neanderthal known as Shanidar 1.", "is_boundary": 0}
+{"id": 561, "text": "Now, for a BBC/PBS TV series we actually brought Shanidar 1 to life, and I want you guys to meet Ned, Ned the Neanderthal.", "is_boundary": 0}
+{"id": 562, "text": "Now here’s the coolest thing about Ned.", "is_boundary": 0}
+{"id": 563, "text": "Ned, this guy, you’re meeting him before his injuries.", "is_boundary": 0}
+{"id": 564, "text": "See, it turned out that Ned was severely disabled.", "is_boundary": 0}
+{"id": 565, "text": "He was in fact so disabled that there is no way he could have survived without the help of other Neanderthals.", "is_boundary": 0}
+{"id": 566, "text": "And so this was proof that, at least for this population of Neanderthals at this time, Neanderthals were like us, and they sometimes looked after those who couldn’t look after themselves.", "is_boundary": 0}
+{"id": 567, "text": "Ned’s an Iraqi Neanderthal.", "is_boundary": 0}
+{"id": 568, "text": "So what else are we missing?", "is_boundary": 0}
+{"id": 569, "text": "What incredible scientific discoveries are we not making because we’re not looking?", "is_boundary": 0}
+{"id": 570, "text": "And by the way, these places, they deserve narratives of hope, and science and exploration can be a part of that.", "is_boundary": 0}
+{"id": 571, "text": "In fact, I would argue that it can tangibly aid development, and these discoveries become a huge source of local pride.", "is_boundary": 0}
+{"id": 572, "text": "And that brings me to the second reason why science has a geography problem.", "is_boundary": 0}
+{"id": 573, "text": "See, we don’t empower local academics, do we?", "is_boundary": 0}
+{"id": 574, "text": "Like, it’s not lost on me that in my particular field of paleoanthropology we study human origins, but we have so few diverse scientists.", "is_boundary": 0}
+{"id": 575, "text": "And the thing is, these places are full of students and academics who are desperate to collaborate, and the truth is that for them, they have fewer security issues than us.", "is_boundary": 0}
+{"id": 576, "text": "I think we constantly forget that for them it’s not a hostile environment; for them it’s home.", "is_boundary": 0}
+{"id": 577, "text": "I’m telling you, research done in unstable places with local collaborators can lead to incredible discoveries, and that is what we are hoping upon hope to do in Socotra.", "is_boundary": 0}
+{"id": 578, "text": "They call Socotra the most alien-looking place on earth, and myself, Leon McCarron, Martin Edström and Rhys Thwaites-Jones could see why.", "is_boundary": 0}
+{"id": 579, "text": "I mean, look at this place.", "is_boundary": 0}
+{"id": 580, "text": "These places, they’re not hellholes, they’re not write-offs, they’re the future frontline of science and exploration.", "is_boundary": 0}
+{"id": 581, "text": "90 percent of the reptiles on this island, 37 percent of the plant species exist here and nowhere else on earth, and that includes this species of dragon’s blood tree, which actually bleeds this red resin.", "is_boundary": 0}
+{"id": 582, "text": "And there’s something else.", "is_boundary": 0}
+{"id": 583, "text": "People on Socotra, some of them still live in caves, and that is really exciting, because it means if a cave is prime real estate this century, maybe it was a few thousand years ago.", "is_boundary": 0}
+{"id": 584, "text": "But we need the data to prove it, the fossils, the stone tools, and so our scouting team have teamed up with other scientists, anthropologists and storytellers, international as well as local, like Ahmed Alarqbi, and we are desperate to shed a light on this place before it’s too late.", "is_boundary": 0}
+{"id": 585, "text": "And now, now we just somehow need to get back for that really big expedition, because science, science has a geography problem.", "is_boundary": 0}
+{"id": 586, "text": "You guys have been a really lovely audience.", "is_boundary": 0}
+{"id": 587, "text": "Thank you.", "is_boundary": 0}
