@@ -20,7 +20,7 @@
 {"id": 19, "text": "And when this happened — I know this sounds kind of ridiculous, but I would simultaneously feel unfathomably insignificant and also kind of weirdly important.", "is_boundary": 0}
 {"id": 20, "text": "That star I looked to night after night was called Vega.", "is_boundary": 0}
 {"id": 21, "text": "Vega is the brightest star in the constellation Lyra, which is not coincidentally the name of one of my dogs.", "is_boundary": 0}
-{"id": 22, "text": "But this experience is being lost.", "is_boundary": 0}
+{"id": 22, "text": "But this experience is being lost.", "is_boundary": 1}
 {"id": 23, "text": "My favorite constellation, Lyra, this is what it would look like from Manhattan.", "is_boundary": 0}
 {"id": 24, "text": "For people who live in urban and suburban environments, if they go outside at night and look up, instead of being awestruck by the majesty of the universe, they see pretty much nothing.", "is_boundary": 0}
 {"id": 25, "text": "These unremarkable, completely blank night skies, of course are due to all of the light we produce at night.", "is_boundary": 0}
@@ -32,7 +32,7 @@
 {"id": 31, "text": "And — [Laughs] Truth.", "is_boundary": 0}
 {"id": 32, "text": "And this light that we’re trying to detect is coming from millions or billions of light-years away, and so it’s generally pretty faint.", "is_boundary": 0}
 {"id": 33, "text": "And as an astronomer, I fight with this every day to do my job, and I have to tell you, it is a really big problem.", "is_boundary": 0}
-{"id": 34, "text": "But the problem is far worse than just losing some whimsical ability to gaze at the stars.", "is_boundary": 0}
+{"id": 34, "text": "But the problem is far worse than just losing some whimsical ability to gaze at the stars.", "is_boundary": 1}
 {"id": 35, "text": "For example, countless plant and animal species are affected.", "is_boundary": 0}
 {"id": 36, "text": "So we could talk about sea turtles or pollinators or any of these super important species that are also cute.", "is_boundary": 0}
 {"id": 37, "text": "Instead, I want to talk about these quietly unassuming dog whelks.", "is_boundary": 0}
@@ -78,7 +78,7 @@
 {"id": 77, "text": "The money that’s spent on that wasted light, and I mean just the light that’s going out into the universe, and not doing us any good, is three billion dollars a year.", "is_boundary": 0}
 {"id": 78, "text": "That’s enough money to build, like, 1,000 utility-grade windmills, or fund the entire DC public-school system for over two years, or — this is my favorite, because I really want one but I can’t afford one — buy 30,000 Tesla Model X SUVs.", "is_boundary": 0}
 {"id": 79, "text": "And that includes the electric car tax credit.", "is_boundary": 0}
-{"id": 80, "text": "And then there are the existential costs.", "is_boundary": 0}
+{"id": 80, "text": "And then there are the existential costs.", "is_boundary": 1}
 {"id": 81, "text": "I don’t have any data on how losing touch with our place in the cosmos impacts us.", "is_boundary": 0}
 {"id": 82, "text": "But I believe that this probably impacts our humanity more than any of the other scary statistics I can share with you.", "is_boundary": 0}
 {"id": 83, "text": "And it’s getting worse with time.", "is_boundary": 0}
@@ -94,7 +94,7 @@
 {"id": 93, "text": "Satellites are a problem at both visible and invisible wavelengths.", "is_boundary": 0}
 {"id": 94, "text": "A host of private companies have plans to deploy tens of thousands of satellites into Earth orbit, where they will not only outnumber, literally outnumber the visible stars in the sky, while also beaming invisible light back to Earth.", "is_boundary": 0}
 {"id": 95, "text": "So for astronomers like me, who use invisible light to study the universe, it’s going to be like staring at the Sun and trying to see a birthday candle behind it.", "is_boundary": 0}
-{"id": 96, "text": "Alright, I want to be clear that there’s nothing inherently wrong with any of this modern technology.", "is_boundary": 0}
+{"id": 96, "text": "Alright, I want to be clear that there’s nothing inherently wrong with any of this modern technology.", "is_boundary": 1}
 {"id": 97, "text": "With cell phones or satellites or car radar.", "is_boundary": 0}
 {"id": 98, "text": "I’m not sure about kitchen appliances.", "is_boundary": 0}
 {"id": 99, "text": "I haven’t broken down and gotten an oven that talks to my cell phone yet.", "is_boundary": 0}
@@ -109,11 +109,12 @@
 {"id": 108, "text": "Those lights you’re using, make sure they’re shielded down, so they’re not shining up into the sky.", "is_boundary": 0}
 {"id": 109, "text": "And let’s talk about LED lights.", "is_boundary": 0}
 {"id": 110, "text": "If you have a choice, don’t buy the blue ones.", "is_boundary": 0}
-{"id": 111, "text": "Look for words like “warm white.” If you buy LEDs with words like “natural light” or “daylight,” that’s like saying you hate space.", "is_boundary": 0}
-{"id": 112, "text": "And finally, you could advocate for this.", "is_boundary": 0}
-{"id": 113, "text": "Even in your local community, find out if there’s a lighting code and whether it could be made more night-sky friendly.", "is_boundary": 0}
-{"id": 114, "text": "Or dare I say, you could even advocate at the federal level, by politely asking our federal officials, some of whom may be here, to please not auction off our view of the invisible universe to the highest bidder to pollute at will, which is actually what happens.", "is_boundary": 0}
-{"id": 115, "text": "Now, like a good professor, I have homework for you.", "is_boundary": 0}
-{"id": 116, "text": "If you have never seen a truly dark night sky, I want you to go out and experience one for yourself.", "is_boundary": 0}
-{"id": 117, "text": "Because if you don’t, you don’t know what you’re missing, and you don’t know what humanity is losing.", "is_boundary": 0}
-{"id": 118, "text": "Thank you.", "is_boundary": 0}
+{"id": 111, "text": "Look for words like “warm white.”", "is_boundary": 0}
+{"id": 112, "text": "If you buy LEDs with words like “natural light” or “daylight,” that’s like saying you hate space.", "is_boundary": 0}
+{"id": 113, "text": "And finally, you could advocate for this.", "is_boundary": 0}
+{"id": 114, "text": "Even in your local community, find out if there’s a lighting code and whether it could be made more night-sky friendly.", "is_boundary": 0}
+{"id": 115, "text": "Or dare I say, you could even advocate at the federal level, by politely asking our federal officials, some of whom may be here, to please not auction off our view of the invisible universe to the highest bidder to pollute at will, which is actually what happens.", "is_boundary": 0}
+{"id": 116, "text": "Now, like a good professor, I have homework for you.", "is_boundary": 1}
+{"id": 117, "text": "If you have never seen a truly dark night sky, I want you to go out and experience one for yourself.", "is_boundary": 0}
+{"id": 118, "text": "Because if you don’t, you don’t know what you’re missing, and you don’t know what humanity is losing.", "is_boundary": 0}
+{"id": 119, "text": "Thank you.", "is_boundary": 0}

@@ -1,0 +1,21 @@
+{
+  "method": "texttiling",
+  "source_file": "the_problem_of_light_pollution_and_5_ridiculously_easy_ways_to_fix_it.jsonl",
+  "boundaries": [
+    7,
+    13,
+    20,
+    25,
+    34,
+    39,
+    46,
+    53,
+    65,
+    69,
+    72,
+    83,
+    88,
+    97,
+    114
+  ]
+}

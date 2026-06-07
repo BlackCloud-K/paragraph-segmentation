@@ -8,6 +8,67 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_INPUT_DIR = PROJECT_ROOT / "data" / "TEDs"
 SENTENCE_SPLIT_PATTERN = re.compile(r'(?<=[.!?])(?:["\'\)\]]*)\s+')
 TITLE_LINE_PATTERN = re.compile(r'^[a-z0-9_]+$')
+OPEN_QUOTES = {'"', '\u2018', '\u201c'}
+CLOSE_QUOTES = {'"', '\u2019', '\u201d'}
+SENTENCE_END_MASKS = {'.': '\x00', '!': '\x01', '?': '\x02'}
+SENTENCE_END_UNMASKS = {mask: char for char, mask in SENTENCE_END_MASKS.items()}
+APOSTROPHE_CHARS = {"'", '\u2019'}
+POST_QUOTE_NARRATION_SPLIT = re.compile(r'(?<=[.!?][""\u201d])\s+(?=[A-Z])')
+
+
+def _is_apostrophe(text: str, index: int) -> bool:
+    """Return True when a single quote character is part of a contraction."""
+    char = text[index]
+    if char not in APOSTROPHE_CHARS:
+        return False
+    if index > 0 and text[index - 1].isalpha():
+        return index + 1 < len(text) and text[index + 1].isalpha()
+    return False
+
+
+def _mask_punctuation_in_quotes(text: str) -> str:
+    """Replace sentence-ending punctuation inside quotes with placeholders."""
+    result: list[str] = []
+    in_quotes = False
+
+    for index, char in enumerate(text):
+        if char == '"':
+            in_quotes = not in_quotes
+            result.append(char)
+            continue
+
+        if char in OPEN_QUOTES:
+            in_quotes = True
+            result.append(char)
+            continue
+
+        if char in CLOSE_QUOTES and not _is_apostrophe(text, index):
+            in_quotes = False
+            result.append(char)
+            continue
+
+        if in_quotes and char in SENTENCE_END_MASKS:
+            result.append(SENTENCE_END_MASKS[char])
+        else:
+            result.append(char)
+
+    return "".join(result)
+
+
+def _unmask_punctuation(text: str) -> str:
+    """Restore masked sentence-ending punctuation."""
+    for mask, char in SENTENCE_END_UNMASKS.items():
+        text = text.replace(mask, char)
+    return text
+
+
+def _split_after_closed_quotes(sentences: list[str]) -> list[str]:
+    """Split narration that resumes immediately after a closing quote."""
+    result: list[str] = []
+    for sentence in sentences:
+        parts = POST_QUOTE_NARRATION_SPLIT.split(sentence)
+        result.extend(part.strip() for part in parts if part.strip())
+    return result
 
 
 def resolve_data_path(folder_path: str | Path) -> Path:
@@ -47,6 +108,8 @@ def split_sentences(text: str) -> list[str]:
     if not text:
         return []
 
+    masked_text = _mask_punctuation_in_quotes(text)
+
     try:
         import nltk
         from nltk.tokenize import sent_tokenize
@@ -57,16 +120,22 @@ def split_sentences(text: str) -> list[str]:
             except LookupError:
                 nltk.download(resource, quiet=True)
 
-        return [sentence.strip() for sentence in sent_tokenize(text) if sentence.strip()]
+        sentences = sent_tokenize(masked_text)
     except ImportError:
-        return _split_by_punctuation(text)
+        sentences = _split_by_punctuation(masked_text)
+
+    sentences = [
+        _unmask_punctuation(sentence.strip())
+        for sentence in sentences
+        if sentence.strip()
+    ]
+    return _split_after_closed_quotes(sentences)
 
 
 def _split_by_punctuation(text: str) -> list[str]:
     """Fallback sentence splitter based on terminal punctuation."""
     parts = SENTENCE_SPLIT_PATTERN.split(text.strip())
-    sentences = [part.strip() for part in parts if part.strip()]
-    return sentences
+    return [part.strip() for part in parts if part.strip()]
 
 
 def sentences_to_records(sentences: list[str]) -> list[dict]:

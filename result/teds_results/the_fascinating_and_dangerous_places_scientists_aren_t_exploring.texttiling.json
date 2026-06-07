@@ -1,0 +1,25 @@
+{
+  "method": "texttiling",
+  "source_file": "the_fascinating_and_dangerous_places_scientists_aren_t_exploring.jsonl",
+  "boundaries": [
+    6,
+    15,
+    19,
+    29,
+    35,
+    43,
+    47,
+    50,
+    57,
+    63,
+    69,
+    72,
+    75,
+    78,
+    92,
+    100,
+    105,
+    112,
+    120
+  ]
+}

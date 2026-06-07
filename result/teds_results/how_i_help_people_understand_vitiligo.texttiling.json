@@ -1,0 +1,20 @@
+{
+  "method": "texttiling",
+  "source_file": "how_i_help_people_understand_vitiligo.jsonl",
+  "boundaries": [
+    6,
+    19,
+    32,
+    39,
+    49,
+    63,
+    67,
+    71,
+    77,
+    87,
+    97,
+    103,
+    113,
+    124
+  ]
+}

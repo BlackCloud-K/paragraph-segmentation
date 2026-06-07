@@ -1,0 +1,22 @@
+{
+  "method": "texttiling",
+  "source_file": "how_to_make_peace_get_angry.jsonl",
+  "boundaries": [
+    7,
+    15,
+    20,
+    26,
+    34,
+    43,
+    50,
+    58,
+    73,
+    77,
+    89,
+    94,
+    99,
+    102,
+    112,
+    116
+  ]
+}

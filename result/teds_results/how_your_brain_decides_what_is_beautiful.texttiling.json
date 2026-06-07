@@ -1,0 +1,18 @@
+{
+  "method": "texttiling",
+  "source_file": "how_your_brain_decides_what_is_beautiful.jsonl",
+  "boundaries": [
+    14,
+    21,
+    30,
+    32,
+    41,
+    50,
+    54,
+    62,
+    65,
+    71,
+    80,
+    85
+  ]
+}
