@@ -1,0 +1,13 @@
+{
+  "method": "semantic_splitter",
+  "source_file": "the_fascinating_and_dangerous_places_scientists_aren_t_exploring.jsonl",
+  "boundaries": [
+    7,
+    10,
+    35,
+    58,
+    83,
+    85,
+    121
+  ]
+}

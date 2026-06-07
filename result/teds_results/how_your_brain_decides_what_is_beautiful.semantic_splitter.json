@@ -1,0 +1,11 @@
+{
+  "method": "semantic_splitter",
+  "source_file": "how_your_brain_decides_what_is_beautiful.jsonl",
+  "boundaries": [
+    32,
+    39,
+    40,
+    85,
+    86
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "method": "semantic_splitter",
+  "source_file": "how_i_help_people_understand_vitiligo.jsonl",
+  "boundaries": [
+    7,
+    15,
+    75,
+    104,
+    111,
+    114,
+    129
+  ]
+}

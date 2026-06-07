@@ -1,0 +1,13 @@
+{
+  "method": "semantic_splitter",
+  "source_file": "how_to_make_peace_get_angry.jsonl",
+  "boundaries": [
+    13,
+    77,
+    79,
+    90,
+    109,
+    118,
+    121
+  ]
+}

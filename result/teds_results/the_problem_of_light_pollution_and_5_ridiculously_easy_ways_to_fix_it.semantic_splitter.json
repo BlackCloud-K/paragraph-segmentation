@@ -1,0 +1,12 @@
+{
+  "method": "semantic_splitter",
+  "source_file": "the_problem_of_light_pollution_and_5_ridiculously_easy_ways_to_fix_it.jsonl",
+  "boundaries": [
+    10,
+    22,
+    23,
+    32,
+    117,
+    119
+  ]
+}

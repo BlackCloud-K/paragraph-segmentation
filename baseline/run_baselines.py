@@ -9,6 +9,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
+from baseline.semantic_splitter import segment_semantic_splitter
 from baseline.texttiling import segment_texttiling
 
 DEFAULT_INPUT_DIR = PROJECT_ROOT / "data" / "TEDs_labeled"
@@ -18,6 +19,7 @@ BaselineFn = Callable[[str | Path], list[int]]
 
 BASELINE_METHODS: dict[str, BaselineFn] = {
     "texttiling": segment_texttiling,
+    "semantic_splitter": segment_semantic_splitter,
 }
 
 
