@@ -1,0 +1,11 @@
+{
+  "method": "wtpsplit",
+  "source_file": "how_to_make_peace_get_angry.jsonl",
+  "boundaries": [
+    2,
+    4,
+    5,
+    10,
+    11
+  ]
+}

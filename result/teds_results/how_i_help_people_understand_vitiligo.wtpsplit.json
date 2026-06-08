@@ -1,0 +1,12 @@
+{
+  "method": "wtpsplit",
+  "source_file": "how_i_help_people_understand_vitiligo.jsonl",
+  "boundaries": [
+    11,
+    37,
+    41,
+    42,
+    66,
+    124
+  ]
+}

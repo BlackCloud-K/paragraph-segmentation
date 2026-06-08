@@ -11,6 +11,7 @@ if str(PROJECT_ROOT) not in sys.path:
 
 from baseline.semantic_splitter import segment_semantic_splitter
 from baseline.texttiling import segment_texttiling
+from baseline.wtpsplit_segmenter import segment_wtpsplit
 
 DEFAULT_INPUT_DIR = PROJECT_ROOT / "data" / "TEDs_labeled"
 DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "result" / "teds_results"
@@ -20,6 +21,7 @@ BaselineFn = Callable[[str | Path], list[int]]
 BASELINE_METHODS: dict[str, BaselineFn] = {
     "texttiling": segment_texttiling,
     "semantic_splitter": segment_semantic_splitter,
+    "wtpsplit": segment_wtpsplit,
 }
 
 
